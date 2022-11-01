@@ -1,3 +1,5 @@
-import App from './components/App.js'
+import App from "./components/App.js";
 
-new App(document.querySelector('.app'))
+alert("hey!");
+
+new App(document.querySelector(".app"));
