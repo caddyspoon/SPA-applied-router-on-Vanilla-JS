@@ -36,10 +36,6 @@ function Router(props) {
     this.render();
   });
 
-  window.addEventListener("DOMContentLoaded", () => {
-    this.render();
-  });
-
   this.render();
 }
 
